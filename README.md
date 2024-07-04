@@ -1,1 +1,1 @@
-# Pandas-Document
+This document covers everything from installation to handling missing values, including useful code snippets to make your data journey smoother. Whether you're just starting out or looking to refine your skills, there's something here for everyone.
